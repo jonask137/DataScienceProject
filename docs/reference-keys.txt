@@ -1,0 +1,13 @@
+fig:nice-fig
+introduction
+network-analysis
+basics
+preliminaries
+creating-a-network-from-an-adjacency-matrix
+creating-a-network-from-an-edge-list
+examining-properties-of-network-objects
+attributes-of-networks-vertices-and-edges
+visualizations
+preliminaries-1
+importing-the-data
+visualising-the-network
